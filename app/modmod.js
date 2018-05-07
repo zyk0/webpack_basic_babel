@@ -1,0 +1,1 @@
+module.exports = 'а этот - из modmod';

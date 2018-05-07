@@ -1,0 +1,1 @@
+module.exports = 'это модуль из constant';
